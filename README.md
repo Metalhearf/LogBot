@@ -1,5 +1,14 @@
 # LogBot - SVN Log Generator
 
+
+![Issues](https://img.shields.io/github/issues/Metalhearf/logbot.svg)
+![Downloads](https://img.shields.io/github/downloads/Metalhearf/logbot/total.svg)
+
+![Stars](https://img.shields.io/github/stars/Metalhearf/logbot.svg)
+![Forks](https://img.shields.io/github/forks/Metalhearf/logbot.svg)
+![Licence](https://img.shields.io/github/license/Metalhearf/logbot.svg)
+
+
 ----
 ## What is LogBot ?
 
