@@ -7,11 +7,12 @@ Logbot is a bash script that helps users to generate logtime, in a work environm
 
 ----
 ## Installation
+Clone the repository
 * `git clone https://github.com/Metalhearf/logbot`
 
 ----
 ## Configuration
-1. Add your custom SVN repositories (must be a valid one) in the config file located here :
+1. Add your custom SVN repositories (must be an existing one) in the config file located here :
 [./config/logbot.conf](https://github.com/Metalhearf/logbot/blob/master/config/logbot.conf)
 
 2. Run LogBot once, and if no errors occured, turn off the testing mode by setting :
@@ -43,12 +44,12 @@ Let's say, the `svn up` command gives you +30 minutes of logtime.
 ----
 ## Compatibility
 * Linux
- * Everything should work just fine.
+    * Everything should work just fine.
 
 * Mac
- * You need to install **gshuf** for LogBot to run.
+    * You need to install **gshuf** for LogBot to run.
 
-    `brew install coreutils`
+        `brew install coreutils`
 
 * Windows
- * Not supported.
+    * Not supported.
