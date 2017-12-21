@@ -1,4 +1,4 @@
-# LogBot
+# LogBot - SVN Log Generator
 
 ----
 ## What is LogBot ?
