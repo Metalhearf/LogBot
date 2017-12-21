@@ -2,9 +2,7 @@
 
 [![Issues](https://img.shields.io/github/issues/Metalhearf/logbot.svg)](https://github.com/Metalhearf/logbot/issues)
 [![Downloads](https://img.shields.io/github/downloads/Metalhearf/logbot/total.svg)](#)
-[![Stars](https://img.shields.io/github/stars/Metalhearf/logbot.svg)](#)
-[![Forks](https://img.shields.io/github/forks/Metalhearf/logbot.svg)](#)
-[![Licence](https://img.shields.io/github/license/Metalhearf/logbot.svg)](#)
+[![Licence](https://img.shields.io/github/license/Metalhearf/logbot.svg)](https://github.com/Metalhearf/logbot/blob/master/LICENSE)
 
 ----
 ## What is LogBot ?
