@@ -35,7 +35,7 @@ By using [Cron](https://doc.ubuntu-fr.org/cron), you can make LogBot start at sp
 ##### Example
 If you have to generate logs every day of the week from 9am to 10am, you can add this to your crontab. (Reminder : `crontab -e`)
 
-Let's say, the `svn up` command gives you +30 minutes of logtime.
+Let's say, the `svn up` command gives you +30 minutes of logtime, and you only work from Monday to Friday.
 
 `0 9 * * 1-5 bash /home/bob/logbot/logbot.sh >> /home/bob/logbot/logs/logbot.log`
 
