@@ -41,6 +41,8 @@ Let's say, the `svn up` command gives you +30 minutes of logtime.
 
 `30 9 * * 1-5 bash /home/bob/logbot/logbot.sh >> /home/bob/logbot/logs/logbot.log`
 
+Use [crontab.guru](https://crontab.guru) to understand or generate cron rules.
+
 ----
 ## Compatibility
 * Linux
