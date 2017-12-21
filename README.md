@@ -53,3 +53,8 @@ Let's say, the `svn up` command gives you +30 minutes of logtime.
 
 * Windows
     * Not supported.
+
+----
+## Disclaimer
+
+This software is for educational purposes only. The author is not responsible for its use.
